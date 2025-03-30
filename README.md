@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/241a8e6e-bc0d-452e-82ca-5733ad29f032)# HR-Attrition-Analysis
+# HR-Attrition-Analysis
 This Power Bi dashboard analyzes employee attrition trends in a company based on age, salary, department, gender, job role, years of service and job satisfaction.
 The Goal is to identify key factors influencing employee turnover and provide data-driven insights for HR decision-making.
 
@@ -45,7 +45,7 @@ The dataset was cleaned and prepared using the following steps :
 ## Screenshots
 
 ### HR Dashboard Overview
-![HR Attrition Dashboard](Screenshots/hr-dashboard-overview.png)
+![HR Attrition Dashboard](hr-dashboard-overview.png)
 
 ### Attrition by Department
 ![Attrition by dept](Screenshots/attrition-by-dept.png)
@@ -60,13 +60,11 @@ The dataset was cleaned and prepared using the following steps :
 
 ---
 
-## Connect with me
+## Connect with Me
 
 
 **[Linkedin](https://www.linkedin.com/in/akanksha-ghadage?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdlFNzzQrTAiOhMUx8JAUmA%3D%3D)**    &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  **[GitHub](https://github.com/akanksha-ghadage)**
 
 
-
-**[Linkedin](https://www.linkedin.com/in/akanksha-ghadage?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdlFNzzQrTAiOhMUx8JAUmA%3D%3D)**    &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  **[GitHub](https://github.com/akanksha-ghadage)**
 
 
