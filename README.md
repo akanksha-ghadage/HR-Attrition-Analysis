@@ -48,7 +48,7 @@ The dataset was cleaned and prepared using the following steps :
 ![HR Attrition Dashboard](hr-dashboard-overview.png)
 
 ### Attrition by Department
-![Attrition by dept](Screenshots/attrition-by-dept.png)
+![Attrition by dept](attrition-by-dept.png)
 
 ---
 
