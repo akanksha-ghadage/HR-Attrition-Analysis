@@ -1,6 +1,8 @@
-# HR-Attrition-Analysis
+![image](https://github.com/user-attachments/assets/241a8e6e-bc0d-452e-82ca-5733ad29f032)# HR-Attrition-Analysis
 This Power Bi dashboard analyzes employee attrition trends in a company based on age, salary, department, gender, job role, years of service and job satisfaction.
 The Goal is to identify key factors influencing employee turnover and provide data-driven insights for HR decision-making.
+
+---
 
 ## Key Insights 
 
@@ -14,6 +16,8 @@ The Goal is to identify key factors influencing employee turnover and provide da
 
 - Lab technicians and Sales Executives experience the most attrition.
 
+---
+
 ## Data Cleaning and Preparation
 
 The dataset was cleaned and prepared using the following steps :
@@ -26,6 +30,8 @@ The dataset was cleaned and prepared using the following steps :
 
 - Ensured data integrity for meaningful Analysis
 
+---
+
 ## Dashboard Features
 
 - Interactive visualizations to explore attrition trends
@@ -34,9 +40,17 @@ The dataset was cleaned and prepared using the following steps :
 
 - Dynamic KPIs to track attrition rates across various dimensions
 
-<br> 
+---
 
 ## Screenshots
+
+### HR Dashboard Overview
+![HR Attrition Dashboard](Screenshots/hr-dashboard-overview.png)
+
+### Attrition by Department
+![Attrition by dept](Screenshots/attrition-by-dept.png)
+
+---
 
 ## Tools Used
 
@@ -44,9 +58,13 @@ The dataset was cleaned and prepared using the following steps :
 
 - CSV file - Data source used for Analysis
 
-<br>
+---
 
 ## Connect with me
+
+
+**[Linkedin](https://www.linkedin.com/in/akanksha-ghadage?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdlFNzzQrTAiOhMUx8JAUmA%3D%3D)**    &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  **[GitHub](https://github.com/akanksha-ghadage)**
+
 
 
 **[Linkedin](https://www.linkedin.com/in/akanksha-ghadage?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdlFNzzQrTAiOhMUx8JAUmA%3D%3D)**    &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  **[GitHub](https://github.com/akanksha-ghadage)**
