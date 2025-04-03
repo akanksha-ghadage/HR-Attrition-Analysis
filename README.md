@@ -1,4 +1,4 @@
-# HR-Attrition-Analysis
+# HR-Attrition-Analytics
 This Power Bi dashboard analyzes employee attrition trends in a company based on age, salary, department, gender, job role, years of service and job satisfaction.
 The Goal is to identify key factors influencing employee turnover and provide data-driven insights for HR decision-making.
 
